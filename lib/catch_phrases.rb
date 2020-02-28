@@ -13,6 +13,6 @@ def link
   "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrase(catchphrase)
+def any_phrase(catchphrase)
   puts "#{catchphrase}"
 end
